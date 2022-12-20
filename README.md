@@ -8,7 +8,7 @@
  Programların Çalışabilme Gereksinimleri:
  - Selenium jar'larının proje kütüphanesinde yüklü olması gerekmektedir.
  - Junit kütüphanesi belli başlı yerlerde kullanıldığı için proje kütüphanesine eklenmesi gerekir.
- - Bilgisayar üzerinde JDK kurulu olmalı ve Bilgisayar Sistem Değişkenlerine entegre edilmelidir sonrasında komut satırı üzerinden kontrol sağlanmalıdır.
+ - Bilgisayar üzerinde JDK kurulu olmalı ve Bilgisayar Sistem Ortam Değişkenlerine entegre edilmelidir sonrasında komut satırı üzerinden kontrol sağlanmalıdır.
  - Selenium Webdriver üzerinden devam edildiği için tarayıcı sürücülerinin(chromedriver,geckodriver,msedgedriver vs.) güncel tarayıcı versiyonlarına uygun bir şekilde projeye entegre edilmelidir.
 
 
