@@ -12,3 +12,6 @@
  - Selenium Webdriver üzerinden devam edildiği için tarayıcı sürücülerinin(chromedriver,geckodriver,msedgedriver vs.) güncel tarayıcı versiyonlarına uygun bir şekilde projeye entegre edilmelidir.
 
 
+
+
+
