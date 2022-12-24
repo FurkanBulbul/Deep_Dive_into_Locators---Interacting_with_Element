@@ -19,6 +19,8 @@ public class DropdownMenu {
 
         //menuItem.selectByVisibleText("Honda");
 
+Thread.sleep(2000);
+
         menuItem.selectByValue("jeep");
     }
 }
