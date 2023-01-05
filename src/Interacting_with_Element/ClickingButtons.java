@@ -14,8 +14,5 @@ public class ClickingButtons {
         driver.manage().window().maximize();
         driver.get("https://www.automationtesting.co.uk/buttons.html");
         driver.findElement(By.cssSelector("button#btn_three")).click();
-
-
-
     }
 }
