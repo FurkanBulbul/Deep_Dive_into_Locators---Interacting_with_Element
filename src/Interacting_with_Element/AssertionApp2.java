@@ -22,5 +22,6 @@ public class AssertionApp2 {
 
        Assert.assertEquals("$26.12",total);
 
+       
     }
 }
