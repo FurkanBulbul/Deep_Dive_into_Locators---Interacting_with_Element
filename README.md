@@ -1,15 +1,15 @@
 # Deep_Dive_into_Locators---Interacting_with_Element
 
- Kodlar Selenium Webdriver & Java kullanılarak oluşturulmuştur.
- 2 farklı durum gözetilmiş ve tüm durumlara değinilmeye çalışılmıştır.
- Deep_Dive_into_Locators klasörü içerisinde Selenium Test Otomasyon Framework'ünün temeli olan Locators(Yer Seçileri) uygulamaları bulunmaktadır.
- Interacting_with_Element klasörü içerisinde Locator kavramının temellerini attıktan sonra web siteleri üzerindeki bir çok web elementinin test otomasyonu örnekleriyle aktarılmıştır. 
+Codes are generated using Selenium Webdriver & Java.
+2 different cases were considered and tried to be mentioned in all cases.
+In the Deep_Dive_into_Locators folder, there are Locators applications, which are the basis of Selenium Test Automation Framework.
+After laying the foundations of the Locator concept in the Interacting_with_Element folder, test automation examples of many web elements on websites were transferred.
  
- Programların Çalışabilme Gereksinimleri:
- - Selenium jar'larının proje kütüphanesinde yüklü olması gerekmektedir.
- - Junit kütüphanesi belli başlı yerlerde kullanıldığı için proje kütüphanesine eklenmesi gerekir.
- - Bilgisayar üzerinde JDK kurulu olmalı ve Bilgisayar Sistem Ortam Değişkenlerine entegre edilmelidir sonrasında komut satırı üzerinden kontrol sağlanmalıdır.
- - Selenium Webdriver üzerinden devam edildiği için tarayıcı sürücülerinin(chromedriver,geckodriver,msedgedriver vs.) güncel tarayıcı versiyonlarına uygun bir şekilde projeye entegre edilmelidir.
+ Requirements for Programs to Run:
+ - Selenium jars must be installed in the project library.
+ - Since the Junit library is used in certain places, it must be added to the project library.
+ - JDK must be installed on the computer and integrated into the Computer System Environment Variables, then control must be provided via the command line.
+ - Since it is continued through Selenium Webdriver, browser drivers (chromedriver, geckodriver, msedgedriver etc.) should be integrated into the project in accordance with the current browser versions.
 
 
 
